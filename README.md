@@ -12,7 +12,7 @@ A basic Amazon Clone built with **HTML** and **CSS**, showcasing a simple static
   ```
 
 ## Author 🧑🏻‍💻
-  Made by Raj Patel  
+  **Made by Raj Patel**  
 - [GitHub](https://github.com/Raj-Patel7807)  
 - [LinkedIn](https://www.linkedin.com/in/raj-patel7807/)
 
